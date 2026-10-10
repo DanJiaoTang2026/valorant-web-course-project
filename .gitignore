@@ -1,0 +1,14 @@
+# System and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
+
+# Submission packages and generated output
+*.zip
+dist/
+
